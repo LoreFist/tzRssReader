@@ -1,0 +1,31 @@
+10
+
+dir
+33627
+http://svn.symfony-project.com/branches/1.4/lib/vendor
+http://svn.symfony-project.com
+
+
+
+2012-10-25T09:31:11.223291Z
+33569
+fabien
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+swiftmailer
+dir
+

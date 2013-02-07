@@ -1,0 +1,43 @@
+10
+
+dir
+33627
+http://svn.symfony-project.com/branches/1.4/test
+http://svn.symfony-project.com
+
+
+
+2012-11-25T09:57:29.831065Z
+33598
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+functional
+dir
+
+bin
+dir
+
+bootstrap
+dir
+
+unit
+dir
+
+other
+dir
+

@@ -1,0 +1,7 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'pgsql:host=127.0.0.1;dbname=rssreader'
+      username: postgres
+      password: 123

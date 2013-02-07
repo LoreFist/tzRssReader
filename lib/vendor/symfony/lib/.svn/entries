@@ -1,0 +1,124 @@
+10
+
+dir
+33627
+http://svn.symfony-project.com/branches/1.4/lib
+http://svn.symfony-project.com
+
+
+
+2012-11-25T10:04:26.458485Z
+33606
+fabien
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+view
+dir
+
+test
+dir
+
+helper
+dir
+
+i18n
+dir
+
+escaper
+dir
+
+filter
+dir
+
+validator
+dir
+
+debug
+dir
+
+generator
+dir
+
+vendor
+dir
+
+exception
+dir
+
+form
+dir
+
+cache
+dir
+
+storage
+dir
+
+config
+dir
+
+util
+dir
+
+action
+dir
+
+command
+dir
+
+user
+dir
+
+plugins
+dir
+
+log
+dir
+
+widget
+dir
+
+controller
+dir
+
+addon
+dir
+
+routing
+dir
+
+request
+dir
+
+response
+dir
+
+plugin
+dir
+
+task
+dir
+
+database
+dir
+
+autoload
+dir
+
+mailer
+dir
+
